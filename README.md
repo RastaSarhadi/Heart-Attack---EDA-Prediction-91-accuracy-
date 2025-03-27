@@ -1,3 +1,10 @@
+"Accuracy OF  Models"
+linearregression = 0.57%
+svm = 0.89%
+RF = 0.87%
+log = 0.91%
+DT = 0.86%
+
 Data Dictionary
 
 age = Age of the patient
