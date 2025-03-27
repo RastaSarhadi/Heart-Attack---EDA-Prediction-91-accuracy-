@@ -1,4 +1,5 @@
 Data Dictionary
+
 age = Age of the patient
 
 sex = Sex of the patient
